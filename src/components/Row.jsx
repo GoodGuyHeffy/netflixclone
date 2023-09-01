@@ -33,7 +33,7 @@ const slideRight = () => {
 
   return (
     <>
-       <h2 className='text-blue-700 font-bold md:text-xl p-4 flex justify-center uppercase'>{title}</h2>
+       <h2 className='text-white md:text-xl p-4 flex uppercase'>{title}</h2>
        <div className='relative flex items-center group'>
         <MdChevronLeft onClick={slideLeft} size={40} className='bg-white left-0 rounded-full absolute opacity-50 hover:opacity-100 cursor-pointer z-10 hidden group-hover:block'/>
          <div id={'slider' + rowID} className='w-full h-full overflow-x-scroll whitespace-nowrap scroll-smooth scrollbar-hide relative'>
