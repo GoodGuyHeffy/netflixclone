@@ -33,7 +33,7 @@ function Login() {
   return (
     <>
       <div className='w-full h-screen'>
-       <img className='hidden sm:block absolute w-full h-full object-cover' src="https://assets.nflxext.com/ffe/siteui/vlv3/b85863b0-0609-4dba-8fe8-d0370b25b9ee/a1f7d402-a554-442d-92e4-3e4be79ae155/US-en-20230731-popsignuptwoweeks-perspective_alpha_website_large.jpg" alt="/"/>
+       <img className='hidden sm:block absolute w-full h-full object-cover' src="https://img.freepik.com/free-vector/technological-design-background_23-2148497493.jpg?w=740&t=st=1693296676~exp=1693297276~hmac=284447a88d34e1b22f1dc3eb1faa58c67fe1f5b4616e8608c7f414f2dbc6847e" alt="/"/>
           <div className='bg-black/60 fixed top-0 left-0 w-full h-screen'></div>
           <div className='fixed w-full px-4 py-24 z-50'>
             <div className='max-w-[450px] h-[600px] mx-auto bg-black/75 text-white'>
